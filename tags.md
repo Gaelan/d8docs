@@ -2,7 +2,8 @@
 ---
 
 #route_enhancer
-@todo
+*Part Of:* Symfony
+*Documentation:* [available here][route_enhancer]
 
 #access_check
 @todo
@@ -32,9 +33,6 @@
 @todo
 
 #entity_resolver
-@todo
-
-#event_subscriber
 @todo
 
 #needs_destruction
@@ -78,3 +76,5 @@
 
 #event_subscriber
 @todo
+
+[route_enhancer]: http://symfony.com/doc/current/cmf/components/routing/dynamic.html#route-enhancer-compiler-pass
