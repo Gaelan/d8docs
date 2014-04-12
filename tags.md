@@ -3,6 +3,7 @@
 
 #route_enhancer
 *Part Of:* Symfony
+
 *Documentation:* [available here][route_enhancer]
 
 #access_check
